@@ -20,3 +20,8 @@
 }
 }
 ```
+[ERROR CODE]
+```
+DEVICE_NOT_REGISTERED = ErrorTuple(('40011', '设备未注册'))
+RECORD_PARAMS_ERROR = ErrorTuple(('40001', '记录的参数错误'))
+```
