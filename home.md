@@ -1,3 +1,8 @@
+生产域名:
+http://www.lqoptics.com/api/v1/....
+测试域名:
+http://collietest.lqoptics.com/api/v1/....
+
 功能接口集
  - [计算接口] (home/功能接口集/计算接口)
  - [辐射定标] (home/功能接口集/辐射定标)
