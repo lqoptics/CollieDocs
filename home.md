@@ -13,6 +13,7 @@ http://collietest.lqoptics.com/api/v1/....
  - [Apk升级] (home/功能接口集/Apk升级)
  - [用户与用户组] (home/功能接口集/用户与用户组)
  - [Sdk注册与升级] (home/功能接口集/Sdk注册与升级)
+ - [设备获取云端数据库信息] (home/功能接口集/设备获取云端数据库信息)
 
 错误码
  - [错误码] (home/错误码)
