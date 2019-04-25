@@ -1,6 +1,6 @@
 STOVE升级
 
-[POST]
+[GET]
 ```
 /stove/update/<sdk_version>
 ```
