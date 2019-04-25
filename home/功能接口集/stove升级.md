@@ -2,7 +2,7 @@ STOVE升级
 
 [POST]
 ```
-/stove/update/<sdk_version>/
+/stove/update/<sdk_version>
 ```
 
 [RESPONSE]
